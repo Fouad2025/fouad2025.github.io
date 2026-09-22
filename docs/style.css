@@ -109,3 +109,24 @@ main {
     
 }
 
+@media (max-width: 480px) {
+
+    header {
+        height: 180px;
+    }
+
+    .nom {
+        font-size: medium;
+    }
+
+    .parcours {
+        width: 94%;
+        top: 110px;
+        padding: 15px;
+    }
+
+    h2 {
+        width: 90%;
+        font-size: 1.2rem;
+    }
+}
