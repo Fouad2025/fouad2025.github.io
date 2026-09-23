@@ -132,6 +132,7 @@ main {
         width: 90%;
         font-size: 1.2rem;
         text-align: center;
+        background-color: bisque;
     }
 }
 
